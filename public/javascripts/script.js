@@ -54,6 +54,12 @@ addFood(steak[0], '#steak', () => {
 addFood(mashPotatoes[0], '#mashPotatoes').then(() => {
   // ... your code here
   addFood(mashPotatoes[1], '#mashPotatoes')
+  addFood(mashPotatoes[2], '#mashPotatoes')
+  addFood(mashPotatoes[3], '#mashPotatoes')
+  addFood(mashPotatoes[4], '#mashPotatoes')
+  addFood(mashPotatoes[5], '#mashPotatoes')
+   addFood(mashPotatoes[6], '#mashPotatoes')
+  addFood(mashPotatoes[7], '#mashPotatoes')
 });
 
 // Iteration 3 using async and await
